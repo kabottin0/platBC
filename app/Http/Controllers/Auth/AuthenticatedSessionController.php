@@ -38,7 +38,7 @@ class AuthenticatedSessionController extends Controller
 
         $request->session()->regenerate();
 
-        return redirect(view('dashboard.home'))
+        return redirect(view('dashboard.home'));
         // return redirect()->intended(RouteServiceProvider::HOME);
     }
 
