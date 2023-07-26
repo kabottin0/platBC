@@ -46,4 +46,4 @@ Enter on phpMyAdmin and in the user table register a new user and in the "user_r
 Now log in with your admin account and "le jeu est fait".
 ## License
 
------
+-----# platBC
